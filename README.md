@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Me chamo Gabriel Luciano Vieira, tenho 16 anos e atualmente estou no ensino médio no Senac-SP, cursando o curso técnico de informatica, amo tecnologia e programação, onde venho cada dia aprendendo e estudando mais e mais!<br><br>- 📚 Atualmente estou estudando JavaScript na rocketseat.<br>- ⚡ No meu tempo livre eu gosto muito de jogar e ficar com minha família.</p>
+<p align="left">Me chamo Gabriel Luciano Vieira, tenho 18 anos e atualmente estou no ensino médio no Senac-SP, cursando o curso técnico de informatica, amo tecnologia e programação, onde venho cada dia aprendendo e estudando mais e mais!<br><br>- 📚 Atualmente estou estudando JavaScript na rocketseat.<br>- ⚡ No meu tempo livre eu gosto muito de jogar e ficar com minha família.</p>
 
 ###
 
